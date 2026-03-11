@@ -23,7 +23,7 @@ RRT in joint + base configuration space
 # Installation
 
 ```bash
-git clone https://github.com/YOURNAME/mobile-manipulator-planning.git
+git clone https://github.com/xueboyang/mobile-manipulator-planning.git
 
 cd mobile-manipulator-planning
 
