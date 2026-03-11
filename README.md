@@ -16,3 +16,15 @@ Includes:
 # System Architecture
 
 Mobile Manipulator State:
+[x, y, θ, q1, q2, q3, q4, q5, q6]
+
+RRT in joint + base configuration space
+
+# Installation
+
+```bash
+git clone https://github.com/YOURNAME/mobile-manipulator-planning.git
+
+cd mobile-manipulator-planning
+
+pip install -r requirements.txt
